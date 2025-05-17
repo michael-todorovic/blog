@@ -1,0 +1,32 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/michael-todorovic"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "bluesky"
+name = "Bluesky"
+url = "https://bsky.app/profile/sre.deploy.hair"
+
+[social.params]
+icon = "brand-bluesky"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/michaeltodorovic/"
+
+[social.params]
+icon = "brand-linkedin"

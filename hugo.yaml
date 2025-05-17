@@ -1,0 +1,9 @@
+baseurl: https://michael-todorovic.github.io
+copyright: "Licensed under CC BY-SA 4.0"
+
+# config.yaml
+module:
+  imports:
+    - path: github.com/CaiJimmy/hugo-theme-stack/v3
+
+# see config/_default for more settings
