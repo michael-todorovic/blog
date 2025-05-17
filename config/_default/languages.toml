@@ -4,3 +4,9 @@ languageName = "English"
 languagedirection = "ltr"
 title = "Michael's blog"
 weight = 1
+
+# [fr]
+# languageName = "Français"
+# languagedirection = "ltr"
+# title = "Blog de Michael"
+# weight = 2
