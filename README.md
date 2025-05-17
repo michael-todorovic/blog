@@ -1,2 +1,3 @@
 # blog
-This is where I post stuff
+
+This is the source code of my blog at https://michael-todorovic.github.io/blog/
