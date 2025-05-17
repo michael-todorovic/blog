@@ -1,0 +1,10 @@
+suite: Deployment
+templates:
+  - deployment.yaml
+  - service.yaml
+tests:
+  - it: test base
+    values:
+      - ./values/base.yaml
+    asserts:
+      - matchSnapshot: {}
