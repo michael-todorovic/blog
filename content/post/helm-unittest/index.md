@@ -1,5 +1,5 @@
 ---
-title: Don't lose time with Helm unit tests
+title: Don't lose time with Helm unit tests
 description: How to scale your chart testing
 date: 2025-05-17 00:00:00+0000
 image: cover.jpg
